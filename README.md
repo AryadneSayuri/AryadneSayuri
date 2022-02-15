@@ -17,7 +17,7 @@
 </h1>
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
 
 - :telescope: I’m working as lawyer and I’m currently transitioning to a career in tech, pursuing a second degree in Technologist in System Analysis
 
